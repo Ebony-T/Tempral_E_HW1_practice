@@ -1,2 +1,2 @@
 # Tempral_E_HW1
-This Justine's and Ebony's repo assignment.
+This is Justine's and Ebony's repo assignment.
